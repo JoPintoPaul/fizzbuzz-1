@@ -1,3 +1,5 @@
+package com.equalexperts.fb
+
 case class FizzBuzz() {
 
   def generate(start: Int, end: Int): String = {
